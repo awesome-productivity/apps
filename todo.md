@@ -1,4 +1,4 @@
-## Awesome ToDo list apps
+## Awesome ToDo list (tasks) apps
 > [!WARNING]
 > For the purposes of this review, we are only looking at **free** plans!
 
