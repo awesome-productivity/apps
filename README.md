@@ -13,7 +13,7 @@ https://noteapps.info
 
 ## Based on board / canvas
 ### Miro.com
-Does not support spell check
+Does not support russian spell check in app
 ### Affine.pro
 ### Obsidian.md (partially)
 
