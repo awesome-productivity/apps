@@ -13,6 +13,7 @@ https://noteapps.info
 
 ## Based on board / canvas
 ### Miro.com
+Does not support spell check
 ### Affine.pro
 ### Obsidian.md (partially)
 
